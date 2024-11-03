@@ -1,0 +1,112 @@
+[
+    {   
+        "id" :"01",
+        "image": "https://documents.iplt20.com/ipl/IPLHeadshot2024/2.png",
+        "name": "Virat Kohli",
+        "country": "India",
+        "role": "Batsman",
+        "rating": 895,
+        "batting_style": "Right-handed-bat",
+        "bowling_style": null,
+        "price": 20000
+    },
+    {   
+        "id" :"02",
+        "image": "https://blr1.vultrobjects.com/crickpro/static/31255/user/xB59penpUTb74F4OLmgSqCD21mJeKPTj5J11zn6y.jpg",
+        "name": "Babar Azam",
+        "country": "Pakistan",
+        "role": "Batsman",
+        "rating": 870,
+        "batting_style": "Right-handed-bat",
+        "bowling_style": null,
+        "price": 18000
+    },
+    {
+        "id" :"03",
+        "image": "https://www.nzc.nz/media/16988/kane-williamson.jpg",
+        "name": "Kane Williamson",
+        "country": "New Zealand",
+        "role": "Batsman",
+        "rating": 835,
+        "batting_style": "Right-handed-bat",
+        "bowling_style": null,
+        "price": 16000
+    },
+    {
+        "id" :"04",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz8UWV4jHwnSyjsxC_MU77PoF4ciR9kXVAPg&s",
+        "name": "Shane Warne",
+        "country": "Australia",
+        "role": "Bowler",
+        "rating": 890,
+        "batting_style": "Right-handed-bat",
+        "bowling_style": "Leg-spin-ball",
+        "price": 17000
+    },
+    {
+        "id" :"05",
+        "image": "https://documents.iplt20.com/ipl/IPLHeadshot2024/218.png",
+        "name": "Rashid Khan",
+        "country": "Afghanistan",
+        "role": "Bowler",
+        "rating": 835,
+        "batting_style": "Right-handed-bat",
+        "bowling_style": "Leg-spin-ball",
+        "price": 15000
+    },
+    {
+        "id" :"06",
+        "image": "https://documents.iplt20.com/ipl/IPLHeadshot2024/9.png",
+        "name": "Jasprit Bumrah",
+        "country": "India",
+        "role": "Bowler",
+        "rating": 800,
+        "batting_style": "Right-handed-bat",
+        "bowling_style": "Fast-ball",
+        "price": 25000
+    },
+    {
+        "id" :"07",
+        "image": "https://documents.iplt20.com/ipl/IPLHeadshot2024/57.png",
+        "name": "MS Dhoni",
+        "country": "India",
+        "role": "Wicketkeeper-Batsman",
+        "rating": 720,
+        "batting_style": "Right-handed-bat",
+        "bowling_style": null,
+        "price": 30000
+    },
+    {
+        "id" :"08",
+        "image": "https://m.media-amazon.com/images/M/MV5BYTlhYjkzNTQtMjFiNS00NDYyLThlNTgtMWE4ZTI0ZTY4NmM1XkEyXkFqcGc@._V1_.jpg",
+        "name": "Steve Smith",
+        "country": "Australia",
+        "role": "Batsman",
+        "rating": 900,
+        "batting_style": "Right-handed-bat",
+        "bowling_style": null,
+        "price": 23000
+    },
+    {
+        "id" :"09",
+        "image": "https://m.media-amazon.com/images/M/MV5BNzA3N2UyZDktNmZiNC00MTk3LWE0MTYtOTExYTQzZTliMTE4XkEyXkFqcGc@._V1_.jpg",
+        "name": "David Warner",
+        "country": "Australia",
+        "role": "Batsman",
+        "rating": 850,
+        "batting_style": "Left-handed-bat",
+        "bowling_style": null,
+        "price": 21000
+    },
+    {
+        "id" :"10",
+        "image": "https://resources.ecb.co.uk/player-photos/test/800x800/1154.png",
+        "name": "Ben Stokes",
+        "country": "England",
+        "role": "All-rounder",
+        "rating": 820,
+        "batting_style": "Left-handed-bat",
+        "bowling_style": "Medium-fast-ball",
+        "price": 22000
+    }
+]
